@@ -1,0 +1,20 @@
+
+’
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(Ñ‰Í£şÿÿÿÿ
+’
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(×øë‹şÿÿÿÿ
+’
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(›ø²®øÿÿÿÿ
+
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(³Íè«
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÿò½üÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ñ‰Í£şÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(éÅ£Öøÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(³¡ˆ‘
+`	java:S103"KSplit this 122 characters long line (which is greater than 120 authorized).(ÄÚ¾¯
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‰Í£şÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÅ£Öøÿÿÿÿ

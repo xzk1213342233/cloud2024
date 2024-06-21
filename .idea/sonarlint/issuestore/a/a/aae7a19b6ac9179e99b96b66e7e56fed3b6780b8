@@ -1,0 +1,38 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ûÖŸ¨‚2J$6159b0f8-4abf-49c5-9ff9-1b655834d1e4
+‡
+java:S1105 "?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ûÖŸ¨‚2J$1db29bd2-9228-4bb4-b349-a6c112173109
+‡
+java:S1105&"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ûÖŸ¨‚2J$07f3709b-ff97-48d0-afba-0af5241e0b96
+‡
+java:S1105*"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ûÖŸ¨‚2J$78291755-c126-4379-a3f0-e935d89adf00
+º
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ƒ´»8ûÖŸ¨‚2J$57dd815e-24dd-4945-ab25-4aa82dec7456
+¿
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Ùäõÿÿÿÿÿ8ûÖŸ¨‚2J$ed523aa3-3342-44a2-be91-8503626bd309
+º
+java:S1120!"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(…¢Âş8ûÖŸ¨‚2J$87de76fc-32d6-4cf0-a712-8c395c2d36a6
+º
+java:S1120'"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ìş“8üÖŸ¨‚2J$941f3795-52b8-45b1-bdc5-2c73adbb7987
+»
+java:S1120+"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(„¸“8üÖŸ¨‚2J$58a8786c-f824-4993-8c66-694c4d456940
+º
+java:S11200"xMake this line start after 8 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(°´±#8üÖŸ¨‚2J$39601721-aa62-4ad8-854e-bb260c5ad941
+^
+java:S16430"Use a StringBuilder instead.(°´±#8şÖŸ¨‚2J$6bc6ee58-8cb4-44ab-9f48-2dc2f71a0133
+„
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ºÀ·ˆ8ÿÖŸ¨‚2J$32c8676e-c281-42c1-9caa-391fd69162a8
+‰
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(ù­ï•ıÿÿÿÿ8€×Ÿ¨‚2J$e88c509b-428f-4a0a-9d2d-2ef01edbcd3e
+v
+java:S2039"3Explicitly declare the visibility for "payService".(ƒ´»8Ÿ×Ÿ¨‚2J$da523eb2-2855-40da-afd3-28bf4dc22624
+m	java:S106-"+Replace this use of System.out by a logger.(ö÷¿—8¨×Ÿ¨‚2J$b71dc35e-fe46-47e7-82d3-e1aae1bf7154
+›
+java:S1132."XMove the "X-Request-atguigu1" string literal on the left side of this string comparison.(£§Œ8©×Ÿ¨‚2J$05de05ed-4dce-453d-b508-2c69b919177f
+ 
+java:S1132/"XMove the "X-Request-atguigu2" string literal on the left side of this string comparison.(ù­ï•ıÿÿÿÿ8©×Ÿ¨‚2J$fed82311-ccb7-4363-abcf-894476ed322a
+G	java:S1064"+Replace this use of System.out by a logger.(Ö£Ùš8·‘ ¨‚2
+L	java:S1066"+Replace this use of System.out by a logger.(¨ä‰Áúÿÿÿÿ8·‘ ¨‚2
+L	java:S1069"+Replace this use of System.out by a logger.(êÛÑøÿÿÿÿ8¸‘ ¨‚2
+G	java:S106:"+Replace this use of System.out by a logger.(Ö£Ùš8¸‘ ¨‚2

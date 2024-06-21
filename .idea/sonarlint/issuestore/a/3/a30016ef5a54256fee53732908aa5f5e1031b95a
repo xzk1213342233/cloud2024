@@ -1,0 +1,12 @@
+
+³
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(Çµí‘J$82fcea03-7701-46b0-8abf-db3a781b5c3a
+³
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¼‡¦¤J$4d7609fd-1940-4958-b471-ec43fd459d45
+}
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(ƒ€í·J$4448d3a8-a286-46a1-9613-cc052fe25e49
+}
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘J$722390a5-da78-49a2-afdc-27c6041ea690
+‰
+java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢F8ÁÓêÇ‚2J$caa2ea80-df66-41d6-a21b-cd564495d83d

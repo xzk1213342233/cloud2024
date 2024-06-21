@@ -1,0 +1,49 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8™ğ¢¥2J$bc00c803-216e-4f92-8d84-d302d1eeaece
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8™ğ¢¥2J$0c76cb10-7801-4cf8-a08e-1839436c4e44
+‡
+java:S1105""?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8™ğ¢¥2J$2e9f0cc1-ffe7-4992-b0e3-57ae7fee6f11
+‡
+java:S11057"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8™ğ¢¥2J$9b0cf66a-2939-4a4f-a881-51f1c437f247
+º
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(Ê‡Û†8šğ¢¥2J$6acea070-2720-45a9-a0f8-bbbbb7bb7735
+¿
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(½Øöşÿÿÿÿ8šğ¢¥2J$91b7cb2a-ecd3-4430-a042-9f98e5a2f351
+º
+java:S1120#"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÿÕÂ8šğ¢¥2J$3ab9fb42-da73-4aaa-a2c7-3abfccaf0179
+»
+java:S1120&"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(‘£ÁÁ8šğ¢¥2J$8aa10f62-f2b5-4cff-8317-dd53fa889ed6
+À
+java:S1120)"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(€ÉÔ…ıÿÿÿÿ8šğ¢¥2J$ff3c946e-4789-48ef-b19b-50e43f726af7
+¿
+java:S11208"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÖéŞÂşÿÿÿÿ8šğ¢¥2J$0dae8b53-b62f-4cc1-9010-91eb27394208
+r
+java:S3740"/Provide the parametrized type for this generic.(½àÑ8šğ¢¥2J$b90c2164-88c2-4da5-b75e-d1a7e418e485
+r
+java:S3740"/Provide the parametrized type for this generic.(¾®Ö˜8›ğ¢¥2J$d037c0f7-cc9f-4264-9817-a439ad0afe88
+w
+java:S3740!"/Provide the parametrized type for this generic.(–ıĞàüÿÿÿÿ8›ğ¢¥2J$e79400dd-151c-4786-9d85-de163144e7d3
+r
+java:S3740$"/Provide the parametrized type for this generic.(ì¦òŠ8›ğ¢¥2J$8081a140-0bc6-40b4-bb59-af60481d939d
+h
+java:S1166("%Either log or rethrow this exception.(”ı¾8›ğ¢¥2J$ca90ec3e-c6b0-4a5c-a4cf-ff5064624846
+¥
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "resultData".(¾®Ö˜8œğ¢¥2J$70701a64-8923-4376-919f-3ab3d67d30ce
+‰
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8ğ¢¥2J$8df783f6-39cd-4b71-875e-448b1f1497e9
+„
+java:S1106("AMove this left curly brace to the beginning of next line of code.(”ı¾8ğ¢¥2J$2b95d5fc-40f0-4742-938c-989274f13395
+q
+java:S2208".Explicitly import the specific classes needed.(Ñ»ïÒ8§ğ¢¥2J$909c15c6-6bf1-4363-8703-25498023b05b
+‚
+java:S1258":Add a constructor to the class, or provide default values.(¬ÁĞ¦ùÿÿÿÿ8¨ğ¢¥2J$20bbf926-03a5-4775-ba4d-18d1ef9d0b08
+r	java:S106"+Replace this use of System.out by a logger.(½Øöşÿÿÿÿ8­ğ¢¥2J$4a750b0a-f2ce-4526-b608-7d0b2bc4140f
+m	java:S106#"+Replace this use of System.out by a logger.(ÿÕÂ8¯ğ¢¥2J$a39eeb36-5223-4f8e-bcbe-6f82f4e74997
+w
+java:S2221("4Catch a list of specific exception subtypes instead.(”ı¾8¯ğ¢¥2J$151c176d-8bc1-42fc-af56-861cc5fb05e4
+u
+java:S1108("2Move this "catch" keyword to a new dedicated line.(”ı¾8°ğ¢¥2J$56317d68-5397-460b-a7d0-e9251cd9a457
+m	java:S106&"+Replace this use of System.out by a logger.(‘£ÁÁ8°ğ¢¥2J$c4452e6c-d149-4504-9c27-78532fd3e2a8
+r	java:S106*"+Replace this use of System.out by a logger.(‘ÖäÎşÿÿÿÿ8°ğ¢¥2J$c7e2efcd-ff0d-4f40-b33b-5e489cd11d84

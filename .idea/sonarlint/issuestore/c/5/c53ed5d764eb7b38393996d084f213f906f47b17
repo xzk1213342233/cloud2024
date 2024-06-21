@@ -1,0 +1,11 @@
+
+a
+java:S1105	"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8¥•°ó‚2
+a
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8¥•°ó‚2
+™
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ŸÁ‘ÿÿÿÿÿ8¦•°ó‚2
+”
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ğØğ¿8¦•°ó‚2
+ß
+java:S4605"Á'PayFeignSentinelApiFallBack' is not reachable by @ComponentScan or @SpringBootApplication. Either move it to a package configured in @ComponentScan or update your @ComponentScan configuration.(ÕáŸÓ8´•°ó‚2

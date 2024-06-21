@@ -1,0 +1,12 @@
+
+‡
+java:S1105
+"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8»­ëó‚2J$db8286b6-3ff1-40ae-a04c-ba70af1eeace
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8»­ëó‚2J$2aad90f2-c96c-456a-a49a-2823e9bfb6e2
+º
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ÛÛ¯ø8¼­ëó‚2J$50e05eec-3cdc-4920-ac6f-b17e20adcbd6
+º
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(§…àü8¼­ëó‚2J$cf66950b-cf47-42db-8658-5e25c6079c18
+‰
+java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢F8Ä­ëó‚2J$12f60bc1-414d-4eee-acdd-b3c5fcb224cd

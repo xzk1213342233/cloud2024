@@ -1,0 +1,13 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8öùªú‚2J$cd6ecfeb-06bc-4efc-8a05-5ceb693ccc0a
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8öùªú‚2J$2380075a-94b5-4dd7-88ca-0c2ff2c99e45
+º
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ÛÛ¯ø8÷ùªú‚2J$447c48f7-92b7-46de-af3f-a72d7493d241
+¹
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¯Ï8÷ùªú‚2J$80af0451-8186-4ffd-b4c2-ec4de9cae3d5
+‰
+java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢F8şùªú‚2J$4d66fae4-c754-4a42-a84d-b68e6c6472dd
+~	java:S125"<This block of commented-out lines of code should be removed.(¸‘Ü¶8ÿùªú‚2J$c0b046d2-e9f0-4189-a678-3021167d4f21
+x	java:S139"6Move this trailing comment on the previous empty line.(¸‘Ü¶8€úªú‚2J$f9057508-eee9-478b-b8eb-d6232fad5779

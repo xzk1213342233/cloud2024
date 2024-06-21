@@ -1,0 +1,26 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8Ò¨Íú‚2J$f0084f11-c476-4f99-892d-58fa9cadeb35
+‡
+java:S1105%"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8Ô¨Íú‚2J$88809d6d-c3f1-45a2-9a27-5490eb567bf8
+¿
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(åÇğ»ûÿÿÿÿ8Õ¨Íú‚2J$e27e82b5-0857-49fc-8882-a9ff7f2cfa16
+¿
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÓÛ¥íùÿÿÿÿ8Õ¨Íú‚2J$a051bf30-a5e6-42b0-9c11-33ad5ca625da
+º
+java:S1120&"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(–À–ƒ8Õ¨Íú‚2J$35e8fa82-7334-41a8-bfe6-9823b58c0b98
+•	java:S109&"SAssign this magic number 65 to a well-named constant, and use the constant instead.(–À–ƒ8Ö¨Íú‚2J$f02ca6dc-a796-4da1-a72b-c4dddaed709b
+‰
+java:S1106"AMove this left curly brace to the beginning of next line of code.(˜¾šÿÿÿÿÿ8Ù¨Íú‚2J$bb1102ca-b239-4141-879c-94449da0ca0b
+„
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(–À–ƒ8Ù¨Íú‚2J$3c301e2a-8a66-4898-a465-1f85f333ae8a
+„
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(–À–ƒ8Ù¨Íú‚2J$9e6d729c-90ea-458b-b508-08bf164488d2
+~
+java:S2039"6Explicitly declare the visibility for "accountMapper".(åÇğ»ûÿÿÿÿ8Ş¨Íú‚2J$ecf1f7b8-c381-49d9-9bac-f6d786156c50
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ù‘¶‰üÿÿÿÿ8Šİªû‚2J$5173f3af-59d8-4a69-8220-14d3932d2bd6
+–	java:S122&"TAt most one statement is allowed per line, but 3 statements were found on this line.(–À–ƒ8ç¨Íú‚2J$2d48b8c6-d768-4e94-8ca8-4c0323f4f93d
+¡
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(–À–ƒ8è¨Íú‚2J$565e482b-4e70-4993-8a9d-0c0bb05ada2f
+u
+java:S1108&"2Move this "catch" keyword to a new dedicated line.(–À–ƒ8è¨Íú‚2J$30b44c96-b5f2-478a-abbf-e37071fe6c06

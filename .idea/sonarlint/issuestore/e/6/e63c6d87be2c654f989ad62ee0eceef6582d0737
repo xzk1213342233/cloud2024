@@ -1,0 +1,41 @@
+
+‡
+java:S1105%"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8¤™ðó‚2J$a07e8fde-8ac1-488f-ba3e-5f7f324a4d92
+¿
+java:S1120!"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ßºž¬ùÿÿÿÿ8¤™ðó‚2J$a163c71e-f61b-49a4-96a6-e947854d0c29
+¿
+java:S1120&"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(æŸ©Îüÿÿÿÿ8¤™ðó‚2J$84613f74-9026-4c3d-bfdd-6c4360fc8c34
+¿
+java:S1120."wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(»‚åÍþÿÿÿÿ8¤™ðó‚2J$60fa38a4-7acb-4f93-b0bc-1a760e67ab87
+¿
+java:S11204"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Êàÿÿÿÿÿ8¤™ðó‚2J$f5943bdf-32a9-4d99-af65-3f50c83a5f6c
+º
+java:S11209"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÖÃ€8¤™ðó‚2J$f1f9da43-bdeb-4bba-b148-37962045bfa6
+º
+java:S1120?"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¹Æ©š8¤™ðó‚2J$909cd69f-6043-4113-ba0a-cde3130f21fa
+Á
+java:S1120E"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(º³èÉøÿÿÿÿ8¤™ðó‚2J$2c5a4b67-b91c-41f5-84e2-d696092d69b6
+¼
+java:S1120F"yMake this line start after 12 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(žîö8¤™ðó‚2J$64002c94-794e-4237-aff5-584ed608a969
+”	java:S109@"RAssign this magic number 2 to a well-named constant, and use the constant instead.(öøµ†8¤™ðó‚2J$78891741-9175-4878-9a49-ccb9df7c7988
+m
+java:S2325>"*Make "initBlockHandler" a "static" method.(ºŒªô8¤™ðó‚2J$d91560f5-8361-4b69-946e-75e5f979ba39
+k
+java:S1604C"(Make this anonymous inner class a lambda(·ª¸Æ8¬™ðó‚2J$e077be87-c673-4d2c-abf0-d7a917153519
+‰
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ØêÊµüÿÿÿÿ8¬™ðó‚2J$ce72899f-73dd-468f-a11a-9eadb0ffc0d9
+„
+java:S1106,"AMove this left curly brace to the beginning of next line of code.(œºž€8¬™ðó‚2J$ebafe2de-e4cc-4004-b177-071568f4c832
+‰
+java:S11063"AMove this left curly brace to the beginning of next line of code.(Ð×ÆŸûÿÿÿÿ8¬™ðó‚2J$8e57ebe0-391e-4bf3-acd5-2fbe4c85c3c3
+‰
+java:S11068"AMove this left curly brace to the beginning of next line of code.(È£Í‚ÿÿÿÿÿ8¬™ðó‚2J$f60f96ec-01c4-49e0-8c9a-0a8d11865d7a
+„
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(ºŒªô8¬™ðó‚2J$91a0a68c-f019-4d9b-83e1-0afcfbe20490
+„
+java:S1106C"AMove this left curly brace to the beginning of next line of code.(·ª¸Æ8¬™ðó‚2J$e6e1706f-b3f8-4ed9-85e4-bccb20f4ce65
+‰
+java:S1106E"AMove this left curly brace to the beginning of next line of code.(º³èÉøÿÿÿÿ8¬™ðó‚2J$0f018831-1ce6-4498-a80f-19990690a5bc
+’	java:S103$"KSplit this 134 characters long line (which is greater than 120 authorized).(œ¬³àúÿÿÿÿ8Ä™ðó‚2J$c4eea8cf-750e-4542-8799-df21ff8d2241
+q
+java:S2208".Explicitly import the specific classes needed.(Î€ŒÙ8Ä™ðó‚2J$8593d084-b911-4044-a186-f19fa3954135

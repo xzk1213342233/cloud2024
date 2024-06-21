@@ -1,0 +1,10 @@
+
+‡
+java:S1105
+"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ÉŞ§ó‚2J$5a33f008-228c-48c4-b50e-9ab6223f3ad2
+¿
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(Ã©¼Êüÿÿÿÿ8ÊŞ§ó‚2J$a5a6b94e-4a1c-45cc-9610-100789dc09ad
+w
+java:S3740"/Provide the parametrized type for this generic.(Ã©¼Êüÿÿÿÿ8ÊŞ§ó‚2J$4ed1bc09-f2fd-41e4-ba83-35f73380e6d1
+n
+java:S2333"&"public" is redundant in this context.(Ã©¼Êüÿÿÿÿ8ÏŞ§ó‚2J$efc16e1a-8ed6-467c-b2eb-84a47207bb55

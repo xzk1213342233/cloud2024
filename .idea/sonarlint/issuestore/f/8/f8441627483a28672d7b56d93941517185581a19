@@ -1,0 +1,20 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8äÙ›ú‚2J$3763befd-fed6-460f-a0ac-108c540e46d4
+‡
+java:S11051"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8äÙ›ú‚2J$e1adcd44-db7f-47b6-a6ef-971cb81fea45
+¿
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(Ë„‡£øÿÿÿÿ8äÙ›ú‚2J$25629cfe-f16f-4674-844a-88a0e38d6e77
+¿
+java:S1120&"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ŸÉÉÌùÿÿÿÿ8äÙ›ú‚2J$5ca2b87b-5405-466c-9cef-1055b6bbb33f
+»
+java:S11202"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(´Êç„8äÙ›ú‚2J$f4d90854-ef9a-4bb2-b1aa-4f38e9bdecd8
+„
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(Öˆåõ8äÙ›ú‚2J$7d3e1157-6c7e-412c-837c-2f74753f84e9
+}
+java:S1258":Add a constructor to the class, or provide default values.(Şş”é8äÙ›ú‚2J$e35dd230-9175-43c9-a8ee-c183ebcb59f7
+ƒ	java:S1253"<This block of commented-out lines of code should be removed.(êŸ”Ÿùÿÿÿÿ8ôÙ›ú‚2J$f7ec7ea2-47fb-4903-90b8-1f9f5b64f1f9
+r	java:S1065"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ôÙ›ú‚2J$16daf53f-f643-4335-af77-42cbefa3e81f
+r	java:S106:"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ôÙ›ú‚2J$dbd881d8-2c60-4ae5-a265-15d5f7e866ed
+r	java:S106?"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ôÙ›ú‚2J$73124104-6a18-4962-ae35-690adb099ce8
+r	java:S106O"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ôÙ›ú‚2J$54bd66af-8e57-4ec2-b662-d88e5535a394

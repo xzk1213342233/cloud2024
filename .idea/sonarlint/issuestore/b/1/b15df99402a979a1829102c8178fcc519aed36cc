@@ -1,0 +1,15 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8©æ¢ú‚2J$ac156d9a-d4a4-479b-b425-245283dd615e
+¿
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ãë»ìÿÿÿÿÿ8ªæ¢ú‚2J$dbca7c20-c5a0-4783-91cc-2be0a84de1f9
+º
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Ô„ô8ªæ¢ú‚2J$fa66076f-e359-4e7b-a4f2-f7612c0db5b4
+w
+java:S3740"/Provide the parametrized type for this generic.(Å Æ–ùÿÿÿÿ8«æ¢ú‚2J$41c56d01-78b5-4e78-a5e2-a1e25bf0a351
+„
+java:S1106"AMove this left curly brace to the beginning of next line of code.(™ ¨Œ8°æ¢ú‚2J$501c4b05-f55e-4135-b81d-d64e45006b88
+}
+java:S1258":Add a constructor to the class, or provide default values.(™ ¨Œ8¶æ¢ú‚2J$4e2ab65c-4cf9-4508-a5f1-94ae10a3892d
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8¦Ş×ú‚2J$78aeb9fd-db0b-4f6f-a208-39fd7982678e

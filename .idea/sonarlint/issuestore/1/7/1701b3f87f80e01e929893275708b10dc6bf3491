@@ -1,0 +1,13 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8‹Û²ú‚2J$2bd58e82-a8e2-4103-8ede-053fcc0008e7
+º
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(–º”—8‹Û²ú‚2J$deb0bae6-6684-4687-b594-b4fd99a2222e
+º
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(‹£´ç8‹Û²ú‚2J$28c0ae40-decd-4e29-9e4c-981eccbd83e2
+w
+java:S3740"/Provide the parametrized type for this generic.(Õ¶õÊıÿÿÿÿ8ŒÛ²ú‚2J$c653f121-d7a0-4886-8134-072488b1cfc6
+‰
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Õ¶õÊıÿÿÿÿ8Û²ú‚2J$343f9bde-1749-484c-b290-6f8e0a5abc44
+‚
+java:S1258":Add a constructor to the class, or provide default values.(çÀ†ªúÿÿÿÿ8Û²ú‚2J$064c62fd-c12e-4daf-a6c7-26f5e70a20b0

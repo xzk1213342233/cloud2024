@@ -1,0 +1,35 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8”î°§‚2J$03d83930-eaef-4733-aaad-e5d7b0686642
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8”î°§‚2J$52ffca68-fcc6-4285-983d-d08c25941fd0
+‡
+java:S1105#"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8”î°§‚2J$6e972987-cdd2-46bf-a98d-2036c2f58a3b
+º
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(Ùˆ†µ8”î°§‚2J$a85a956f-3b4c-4338-ad33-7c0e0b82c615
+º
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(úƒ¦€8•î°§‚2J$fa2967b7-30b1-4722-94b9-778ee628e37a
+¿
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(¦Á¦¼ıÿÿÿÿ8•î°§‚2J$f67c8d8e-348b-4b4b-80e4-221b1df7b403
+º
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(áØ½ó8•î°§‚2J$e975dcdb-ac4f-4597-a2bc-238c912985a0
+º
+java:S1120$"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¨œƒº8•î°§‚2J$ea4f08ed-7adb-4ee0-8843-f1747a5b3f4b
+Á
+java:S1120&"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(†›Ôèúÿÿÿÿ8•î°§‚2J$944cf6aa-4de1-4da8-a5f8-c3dec7651970
+¼
+java:S1120,"yMake this line start after 12 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(§¼Éç8•î°§‚2J$d325dde2-789c-4bfb-9c8e-b202d66b6836
+º
+java:S11205"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(™Ö£8•î°§‚2J$84aa4b64-05b3-4283-b960-b98f7b060414
+‰
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¦Á¦¼ıÿÿÿÿ8˜î°§‚2J$e2dac622-41d3-4442-8390-5cdb84181989
+‰
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(û¥Ä•ÿÿÿÿÿ8˜î°§‚2J$1ce05d8e-736b-4532-811f-8ca1bc737074
+‰
+java:S11064"AMove this left curly brace to the beginning of next line of code.(ÖÆ–Óùÿÿÿÿ8˜î°§‚2J$3a54e7bf-fc58-4d9e-af60-05d8b66a8816
+‚
+java:S1258":Add a constructor to the class, or provide default values.(¦Á¦¼ıÿÿÿÿ8¡î°§‚2J$a78920dd-d922-4260-a165-714d5dfea4bb
+j
+java:S2211$"'Specify a type for: 'serverWebExchange'(¨œƒº8¦î°§‚2J$46a7f392-2632-41ed-8dd0-c49a24252e9d
+‰
+java:S1126+"AReplace this if-then-else statement by a single return statement.(û¥Ä•ÿÿÿÿÿ8¨î°§‚2J$d17da7d4-f589-4bc8-86ed-b3a7e0292eae

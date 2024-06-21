@@ -1,0 +1,46 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8€¡Í©‚2J$99d4191c-cc5e-4fa6-81df-ac81122f2187
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8€¡Í©‚2J$1ee548a2-1618-418a-a41d-8fe2b26beda3
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8€¡Í©‚2J$6847fd5d-bca5-41d1-9a39-59b603f9a7c0
+‡
+java:S1105!"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8€¡Í©‚2J$c3a6bb90-28a8-4763-b644-933e2872ff05
+‡
+java:S1105$"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8€¡Í©‚2J$433cccfc-3710-4b88-a441-6414c852fa5a
+‡
+java:S11057"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8€¡Í©‚2J$f7714b1f-0636-4df0-b250-0669262bc0ba
+¿
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(×ˆØœşÿÿÿÿ8¡Í©‚2J$31533e6c-f674-4305-aa9b-fce91264034e
+¿
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÓãÓ‰üÿÿÿÿ8¡Í©‚2J$a5c5802f-c73a-4e2e-a06a-d76d66a0c735
+¿
+java:S1120 "wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Ë»ŸÇşÿÿÿÿ8¡Í©‚2J$9f6a0551-9a38-43eb-961c-be2128fe0b31
+Á
+java:S1120#"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(áÃ–æüÿÿÿÿ8¡Í©‚2J$a47e7e7f-062d-4138-8d5e-e3375c7d7b08
+Á
+java:S1120%"yMake this line start after 12 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(œšşÌùÿÿÿÿ8¡Í©‚2J$c4e7b40c-7bed-4c36-b161-e86ca4d09ac1
+Á
+java:S1120("yMake this line start after 14 spaces instead of 20 in order to indent the code consistently. (Indentation level is at 2.)(ÒÎœ¶üÿÿÿÿ8¡Í©‚2J$81ba1653-b71b-43f4-b563-2cfb5c34f2d1
+¼
+java:S1120*"yMake this line start after 14 spaces instead of 20 in order to indent the code consistently. (Indentation level is at 2.)(Ï¾¡·8¡Í©‚2J$b4b9b2e8-5b62-4c5a-9cf3-1b3bf07f436c
+º
+java:S11203"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÀŒŞĞ8¡Í©‚2J$1624518e-18ca-4a83-a729-e188e7ee94ac
+¹
+java:S11206"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ÿİ–[8¡Í©‚2J$115c57fa-1a17-4b5b-a152-61169a571cdf
+º
+java:S11209"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¡˜€8¡Í©‚2J$c97a3d87-7ec0-4fa8-8006-30461ac5dd87
+p
+java:S1604 "(Make this anonymous inner class a lambda(Ë»ŸÇşÿÿÿÿ8„¡Í©‚2J$4b4c23ab-9ba8-402c-9269-f9122620c08c
+‰
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(®±ÉÓüÿÿÿÿ8‡¡Í©‚2J$1232c6fb-2080-46cc-a63f-db5cba0195bb
+„
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(å¥‡8‡¡Í©‚2J$c3dec6a3-c43e-4c28-9b3c-606b9a2bc1e5
+‰
+java:S11062"AMove this left curly brace to the beginning of next line of code.(ÖÆ–Óùÿÿÿÿ8‡¡Í©‚2J$075a85e4-f6b7-44e0-be0b-4fcedeaa8f21
+m	java:S106&"+Replace this use of System.out by a logger.(šÛ¯Ç8¡Í©‚2J$019d1158-2755-41c7-b420-2d33899209cc
+t
+java:S1108)"1Move this "else" keyword to a new dedicated line.(å¥‡8‘¡Í©‚2J$0d1cb5db-7b58-4587-a236-687ad76f4f42
+|
+java:S12586":Add a constructor to the class, or provide default values.(ÿİ–[8“¡Í©‚2J$ec2ec4b0-61e4-4f09-be19-2246bd740564

@@ -1,0 +1,37 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ñÈ×­2J$3d05ff06-cdc0-4607-afb7-c03770349e28
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8òÈ×­2J$d89dd40e-da65-445a-aa23-c73164089882
+‡
+java:S1105("?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8‚Òç®2J$878581aa-de89-4741-943e-fedf36f1aca5
+‡
+java:S1105,"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8‚Òç®2J$6054cc65-df88-423c-a967-7ea9ce17efc7
+‡
+java:S11054"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8Æ Î°2J$545e8d27-cd9b-49dd-9623-f56a259407d0
+‡
+java:S11058"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8Æ Î°2J$eabf7599-4647-421f-9a2f-a05ced5d0393
+º
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(Ê‡Û†8òÈ×­2J$bc029a95-f96c-4eef-9915-593372849a0b
+¿
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(©àÿ¬ıÿÿÿÿ8òÈ×­2J$f75d4b30-d38a-459c-a750-24da21f7769f
+º
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(‡¯Úü8òÈ×­2J$6772f9fd-eb24-4e48-9522-341cac270626
+º
+java:S1120)"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(åøÆŠ8‚Òç®2J$f5e6ed0f-8f5a-494d-87e6-ac24cf40e049
+¿
+java:S1120-"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ù÷Çüÿÿÿÿ8‚Òç®2J$30250127-0faa-4169-9d27-e8a91ab6134a
+º
+java:S11205"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(–Îüì8Æ Î°2J$e60d2e6c-f118-4f34-b899-0979c1930912
+¿
+java:S11209"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¸ÁñËşÿÿÿÿ8Æ Î°2J$e2b70ce4-1ae3-4ea0-917d-af7e5e954277
+‰
+java:S1106"AMove this left curly brace to the beginning of next line of code.(³ŒÌ¢øÿÿÿÿ8õÈ×­2J$2d5cc5c4-9b81-4a27-9d76-0c45c3368923
+}
+java:S1258":Add a constructor to the class, or provide default values.(úå´¨8÷È×­2J$f67fad9a-69f7-461a-99b5-a3cf060e47cd
+x
+java:S1172"0Remove these unused method parameters "id", "t".(³ŒÌ¢øÿÿÿÿ8…É×­2J$f1d718b6-f5a1-4727-8282-e015000f6d1f
+p
+java:S1172+"(Remove this unused method parameter "t".(°èÔ‘úÿÿÿÿ8’Òç®2J$884b5bc4-1209-431c-982e-83c7ae1988d5
+x
+java:S11727"0Remove these unused method parameters "id", "t".(„€Ä¬øÿÿÿÿ8Ø Î°2J$da55ca28-94f6-4a99-9b9b-2b4fd5cfe119

@@ -1,0 +1,91 @@
+
+‡
+java:S1105F"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8éÌ™¥2J$154fc0a9-3fff-4f16-b90d-165b5d60d92b
+‡
+java:S1105I"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8éÌ™¥2J$3d9ce1b6-e9a3-4890-8100-b17ccdf27c49
+‡
+java:S1105X"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8éÌ™¥2J$a62b0a3e-9dab-4c37-a3b8-a4e02be91cfe
+º
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ƒ´»8êÌ™¥2J$0ba72289-717e-423c-bce9-f015e7dc78b5
+º
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(—³ıñ8êÌ™¥2J$037c8581-28a8-4fa3-9954-2760713d8d43
+º
+java:S1120#"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÃøØ8êÌ™¥2J$6188f0f7-b74a-427d-8299-c46ad5d01a1d
+¿
+java:S1120+"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Úùøùÿÿÿÿ8êÌ™¥2J$f6b2c314-6f74-469c-89da-e20127fad0f8
+º
+java:S11205"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÓŸ‚£8êÌ™¥2J$50218e5b-31f2-46e6-8e83-5023b686b6f6
+À
+java:S11207"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(Œ¨¸úıÿÿÿÿ8êÌ™¥2J$1d239280-899e-4cf7-9b13-f632add5b8a6
+º
+java:S1120@"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¾ÂıÖ8êÌ™¥2J$61f722da-2b4f-40ea-9d54-e51734c40005
+¿
+java:S1120G"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(§®—úÿÿÿÿ8êÌ™¥2J$d59932cf-7848-4c38-90ed-7ff61c8b1bda
+º
+java:S1120J"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(˜äë8êÌ™¥2J$1a8bafc6-d42b-4478-b892-fbb2dc2f44a7
+À
+java:S1120M"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(€ÉÔ…ıÿÿÿÿ8êÌ™¥2J$92c1da22-4195-44a4-a22d-6d73dd138fe5
+º
+java:S1120Y"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¡Á“•8êÌ™¥2J$c4baf8b6-b1a7-4162-93be-b86fabe1615c
+€
+java:S1213T"8Move this variable to comply with Java Code Conventions.(º€ïãüÿÿÿÿ8êÌ™¥2J$26b9ab22-c86f-4441-b5e6-eda6555b76c2
+”	java:S1095"RAssign this magic number 4 to a well-named constant, and use the constant instead.(ÓŸ‚£8ëÌ™¥2J$07556f6d-68ec-4021-a99b-8a3c4a9301ce
+š	java:S1097"SAssign this magic number 62 to a well-named constant, and use the constant instead.(Œ¨¸úıÿÿÿÿ8ëÌ™¥2J$92cf3c37-01fc-4aa3-a897-f40ce715b04c
+›	java:S109G"TAssign this magic number 200 to a well-named constant, and use the constant instead.(§®—úÿÿÿÿ8ëÌ™¥2J$d5d9841c-8e53-4b8e-b735-e187f94850ac
+š	java:S109K"SAssign this magic number 10 to a well-named constant, and use the constant instead.(§¼¦Úøÿÿÿÿ8ëÌ™¥2J$3ef71ce4-3242-4106-bb31-a62c93199e68
+ˆ	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(ÓŸ‚£8ìÌ™¥2J$105d8682-6e15-4517-9616-944c1351acb0
+m
+java:S11667"%Either log or rethrow this exception.(Œ¨¸úıÿÿÿÿ8íÌ™¥2J$7da790de-f1f3-41e7-9ce2-d5293f04a52d
+h
+java:S1166L"%Either log or rethrow this exception.(”ı¾8íÌ™¥2J$03e9a44a-6279-476a-866e-fd71d71d9fb6
+ƒ
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¯ó¨8ñÌ™¥2J$aba13154-afd6-4ff7-994a-8fac87342f70
+ƒ
+java:S1106"AMove this left curly brace to the beginning of next line of code.(å×¹}8ñÌ™¥2J$4f042d94-7185-45b9-a49f-69d1f7210425
+‰
+java:S1106""AMove this left curly brace to the beginning of next line of code.(èî«Âüÿÿÿÿ8ñÌ™¥2J$2c1b376b-9d1d-4d3a-ba8e-924a5b6b1c8a
+‰
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(§Ò¹»ÿÿÿÿÿ8ñÌ™¥2J$552cf5f1-17bc-459c-97cb-89d14c0c4267
+‰
+java:S11064"AMove this left curly brace to the beginning of next line of code.(’¡à¬üÿÿÿÿ8ñÌ™¥2J$05c3a75d-1613-4e63-a1fd-cfe4845f37ef
+‰
+java:S11067"AMove this left curly brace to the beginning of next line of code.(Œ¨¸úıÿÿÿÿ8ñÌ™¥2J$bbe3c806-09d2-44dd-82a6-5be9c8861ca7
+‰
+java:S11067"AMove this left curly brace to the beginning of next line of code.(Œ¨¸úıÿÿÿÿ8ñÌ™¥2J$89a00396-8097-49de-897d-33a8053341fa
+‰
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(ˆ¢ûÿÿÿÿ8ñÌ™¥2J$e1eb940c-5554-4a9c-a062-464fcd18e0c9
+„
+java:S1106L"AMove this left curly brace to the beginning of next line of code.(”ı¾8ñÌ™¥2J$89a44d3f-a885-4844-bc08-da32e589fdb0
+‹
+java:S3518K"CMake sure this expression can't be zero before doing this division.(§¼¦Úøÿÿÿÿ8üÌ™¥2J$883a9059-97b1-4288-9748-c6fa5d32fb9b
+q
+java:S2208".Explicitly import the specific classes needed.(Ñ»ïÒ8şÌ™¥2J$b6cea8e6-dd09-488f-969d-51affa4bf306
+|
+java:S1258":Add a constructor to the class, or provide default values.(¯ó¨8şÌ™¥2J$33c5529b-c344-4e67-a329-3b734203c0b6
+v
+java:S2039"3Explicitly declare the visibility for "payService".(ƒ´»8ÿÌ™¥2J$d69bd81a-2f5a-421e-a7c1-d220290e5a98
+m	java:S106"+Replace this use of System.out by a logger.(—³ıñ8†Í™¥2J$46bb0d24-de10-413d-91b0-8219787424e5
+–	java:S1225"TAt most one statement is allowed per line, but 2 statements were found on this line.(ÓŸ‚£8‹Í™¥2J$09a9fc75-a7a3-4e83-a418-c4d5346968ca
+›	java:S1227"TAt most one statement is allowed per line, but 3 statements were found on this line.(Œ¨¸úıÿÿÿÿ8‹Í™¥2J$f2ed60de-3ada-42a4-9df5-3dce4747554c
+V	java:S1215"Missing curly brace.(ÓŸ‚£8ŒÍ™¥2J$47be1d9b-b5a2-4e58-9d6d-1f16a74eefcc
+|
+java:S22217"4Catch a list of specific exception subtypes instead.(Œ¨¸úıÿÿÿÿ8Í™¥2J$0c57f9d1-1c7a-4ee9-8ea6-29f975fd55ec
+¦
+java:S21427"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(Œ¨¸úıÿÿÿÿ8Í™¥2J$bf91ec10-0453-4570-b0d7-4f9946a341f7
+z
+java:S11087"2Move this "catch" keyword to a new dedicated line.(Œ¨¸úıÿÿÿÿ8Í™¥2J$183a9389-aac0-4df4-a744-c49e7b9574af
+€
+java:S1854K"8Remove this useless assignment to local variable "data".(§¼¦Úøÿÿÿÿ8‘Í™¥2J$6c57679c-1bd5-4ceb-bcf4-0aa21353afd5
+
+java:S4488D"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(À¹˜úüÿÿÿÿ8’Í™¥2J$504b3194-bd57-413b-b2bb-9b3c2a7d2771
+„
+java:S1941G"<Move the declaration of "i" closer to the code that uses it.(§®—úÿÿÿÿ8’Í™¥2J$3b3741b3-98c2-43b9-ab43-63fdd6ef85fa
+w
+java:S2221L"4Catch a list of specific exception subtypes instead.(”ı¾8“Í™¥2J$12e11d3e-8704-44b8-9a70-0e9aa2bff2f0
+u
+java:S1108L"2Move this "catch" keyword to a new dedicated line.(”ı¾8“Í™¥2J$ac8dd277-3999-4040-aeb9-3ece1ab2e9ca
+l	java:S106J"+Replace this use of System.out by a logger.(˜äë8“Í™¥2J$8ff43025-481e-4130-88c7-fd04757f17d8
+q
+java:S1481K")Remove this unused "data" local variable.(§¼¦Úøÿÿÿÿ8“Í™¥2J$4a4af952-0a83-4bb0-b47c-a2af47077721
+g
+java:S3751W"Make this method non "private".(â‡¶´ıÿÿÿÿ8•Í™¥2J$11789489-e823-4e57-9a53-bb06c23d88e4

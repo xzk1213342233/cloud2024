@@ -1,0 +1,13 @@
+
+€
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿJ$da803208-c0f0-4d72-9ce2-15a5bb0e3e64
+³
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(Ö’ëÉJ$7cdfedf4-6edb-4989-b326-6ccee5b7276c
+¸
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(‚¸’ÎûÿÿÿÿJ$5fab1897-31a6-4d1a-bf46-07a7f1d610dd
+‚
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(›’ØÍşÿÿÿÿJ$d40814f0-b4c7-48ab-b7d6-d309627a11db
+{
+java:S1258
+":Add a constructor to the class, or provide default values.(›’ØÍşÿÿÿÿJ$938e52dd-b4c3-449d-a2f4-36d9b7e219c3

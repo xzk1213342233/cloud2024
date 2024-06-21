@@ -1,0 +1,53 @@
+
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8¤›ùÔ‚2J$c1a91c0f-bc51-4b35-9b31-aa81698512fb
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8¤›ùÔ‚2J$b20d75d3-43df-4ce4-9d7a-9ab733d4c1b2
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8¤›ùÔ‚2J$0534005d-f36a-4635-8e4e-0a7e9e89e8c3
+‡
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8¤›ùÔ‚2J$782458e4-3861-4219-81ea-5ae9a8483795
+‡
+java:S1105>"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8‹ÈÃñ‚2J$563dafe4-1b38-465c-b8a3-f70cea8f765a
+¿
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(¿²ó”üÿÿÿÿ8¤›ùÔ‚2J$704fdd19-de71-4c4d-89da-5f0801191e6d
+¿
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¹ÉÃÓøÿÿÿÿ8¥›ùÔ‚2J$15e9fd71-b935-46e5-a9fb-359c7bb90a85
+º
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(•éŠ¬8¥›ùÔ‚2J$c480c775-9ddd-41cf-8f77-ac9a7dd5a32a
+º
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(‡ÓÚ8¥›ùÔ‚2J$15b7cda9-0411-4276-9863-88e034cb217b
+º
+java:S1120%"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(íœšÀ8ËŸ“Õ‚2J$761b0e75-0174-433d-8fe2-c1e3b4efa664
+À
+java:S1120&"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(‚îÍùüÿÿÿÿ8ÌŸ“Õ‚2J$6a534e19-db4c-4264-ad82-280cabaa617a
+º
+java:S1120,"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(æÐÆÓ8ÌŸ“Õ‚2J$a7077c45-4fd7-4d79-85e5-c525c3a30767
+º
+java:S11201"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(öžû³8ÌŸ“Õ‚2J$f589b054-a331-4763-b36e-0585979f6fa3
+¿
+java:S1120;"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¤Œàîÿÿÿÿÿ8ŽÈÃñ‚2J$409b7b9f-f94f-4da6-8a40-fd898183acc8
+¿
+java:S1120?"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Ê˜‡»ùÿÿÿÿ8ŽÈÃñ‚2J$c20c5b5b-b890-4b7a-8e17-699481f83ac6
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(‚îÍùüÿÿÿÿ8ÍŸ“Õ‚2J$b926a38d-bfb2-4035-b12a-a31ccf93dd1d
+‰
+java:S1106$"AMove this left curly brace to the beginning of next line of code.(¾ê›¥ýÿÿÿÿ8ÒŸ“Õ‚2J$73d1e84b-07cc-4775-afa3-54ae1bfcb99d
+„
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(íœšÀ8ÓŸ“Õ‚2J$2e32306a-15a1-4914-9902-290f8d6d3117
+‰
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(¸óžèùÿÿÿÿ8ÓŸ“Õ‚2J$03a7848b-d72e-4294-9b38-c87b185a9384
+ƒ
+java:S11060"AMove this left curly brace to the beginning of next line of code.(ó£Ì8ÓŸ“Õ‚2J$7e3f2266-d032-4b0d-ab88-41ff55a2fce6
+‰
+java:S1106:"AMove this left curly brace to the beginning of next line of code.(Õ¥Ú¾ýÿÿÿÿ8”ÈÃñ‚2J$1320699a-fe1a-4a29-a8ff-a218559a24d8
+x
+java:S1172"0Remove this unused method parameter "exception".(áÃÀíùÿÿÿÿ8²›ùÔ‚2J$24c7971a-b07d-4d2d-a899-b6fec079175e
+q
+java:S1172+")Remove this unused method parameter "p1".(¸óžèùÿÿÿÿ8éŸ“Õ‚2J$628dddb9-e788-461a-9d85-26e52d6945b1
+k
+java:S11720")Remove this unused method parameter "p1".(ó£Ì8êŸ“Õ‚2J$948e35aa-9759-43cd-a2ca-68bb2dddb4ba
+•	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áš„×úÿÿÿÿ8¸ÈÃñ‚2J$72ce23c8-3ecc-4a83-a735-5c2a4f284134
+†
+java:S1172=">Remove these unused method parameters "p1", "p2", "exception".(Áš„×úÿÿÿÿ8¹ÈÃñ‚2J$1197424b-aeb2-450d-8487-d7515d5e22b2
+f
+java:S1128"Remove this duplicated import.(×ÈŠòûÿÿÿÿ8´›ùÔ‚2J$968ccce7-7c36-4c53-a880-71614f389cd9

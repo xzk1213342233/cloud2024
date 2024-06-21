@@ -1,0 +1,58 @@
+
+‡
+java:S1105="?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8”£ª†2J$f912ddff-50be-4142-9e70-1f889bf2f9ef
+‡
+java:S1105H"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ë¨é†2J$0bd76bf6-85d6-46cd-9822-8e1d9655308a
+º
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ÍòßÍ8´§èƒ2J$db9704f2-ce66-45a5-a1db-eea1449b6d12
+º
+java:S1120'"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(óŸ¨8´§èƒ2J$86383ec6-a990-4a5b-b38f-1af014bd8193
+¿
+java:S1120,"wMake this line start after 4 spaces instead of 7 in order to indent the code consistently. (Indentation level is at 2.)(ç­“¿ÿÿÿÿÿ8´§èƒ2J$50fd8f95-1420-476a-bea1-2a6fb2eb877f
+º
+java:S11202"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ì¯ï§8´§èƒ2J$cb547ed2-d1e9-449b-8653-ece55f71cf43
+º
+java:S11208"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(†òâ8´§èƒ2J$1c29b174-562a-4ead-bb26-9d8829321c8f
+º
+java:S1120>"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(é®±ó8”£ª†2J$b97ca813-ccff-4c03-b10d-3da83f293ecf
+¿
+java:S1120I"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÂŞóòùÿÿÿÿ8ì¨é†2J$0815e438-75d1-4dc6-a916-3f931c79a40b
+À
+java:S1120K"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(¬ĞË‹ùÿÿÿÿ8ì¨é†2J$bef11a4d-874c-495f-b33c-f2e3a7b9dc92
+º
+java:S1120R"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ÙÂ‘!8ì¨é†2J$db5f6205-95b4-491a-aace-6e41f5354925
+€
+java:S1213C"8Move this variable to comply with Java Code Conventions.(Ã«í£ûÿÿÿÿ8í¨é†2J$67688c92-8938-4dab-abf7-cd0dcd0b2d53
+w
+java:S3740&"/Provide the parametrized type for this generic.(ÁƒËĞûÿÿÿÿ8µ§èƒ2J$28ed99dc-ac6c-4f21-9375-e2d62e142723
+q
+java:S3740+"/Provide the parametrized type for this generic.(®‘˜`8µ§èƒ2J$235a718c-f9e2-456a-81bd-46496b1ac0d2
+r
+java:S37401"/Provide the parametrized type for this generic.(µåóÈ8µ§èƒ2J$7c1037bc-c684-4c48-be46-ac826cefc115
+r
+java:S37407"/Provide the parametrized type for this generic.(ú€ÔÛ8µ§èƒ2J$4c7847fe-84c5-41c7-b089-1ea9a8c60167
+„
+java:S1106"AMove this left curly brace to the beginning of next line of code.(™ ¨Œ8·§èƒ2J$858a859a-f7da-4025-b3f4-c0fddb735069
+‰
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(ÁƒËĞûÿÿÿÿ8·§èƒ2J$8da89181-51c1-4a85-a37a-3901f76b3109
+ƒ
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(®‘˜`8·§èƒ2J$4f111ca9-e18e-42a7-86c8-39bf210562b7
+„
+java:S11061"AMove this left curly brace to the beginning of next line of code.(µåóÈ8·§èƒ2J$28eb98be-5c83-4133-9e29-2b6303862c0f
+„
+java:S11067"AMove this left curly brace to the beginning of next line of code.(ú€ÔÛ8·§èƒ2J$27880b60-5915-46ca-90c4-c6ca0f90dd01
+‰
+java:S1106J"AMove this left curly brace to the beginning of next line of code.(¨ÌôÕşÿÿÿÿ8ğ¨é†2J$85ad14b3-417c-4df1-9167-3789ed78e394
+‰
+java:S1106Q"AMove this left curly brace to the beginning of next line of code.(ğÍùÿÿÿÿ8ğ¨é†2J$cfbcc863-7eca-4960-acce-28a110f0347a
+Œ	java:S103R"KSplit this 123 characters long line (which is greater than 120 authorized).(ÙÂ‘!8ı¨é†2J$a182eae1-fec5-4e25-9732-d3d1b631d16b
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÍòßÍ8¾§èƒ2J$5bc493e6-85d1-4502-a7ca-f448aa4e282c
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¿§èƒ2J$36525f49-afa2-45a4-aa42-7991494a70ca
+b
+java:S3751<"Make this method non "private".(î»¯¤8¤£ª†2J$f4f78a9e-2a85-4349-896b-6302f1deebbb
+r	java:S106K"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8Š©é†2J$71e88012-7bef-413a-bd2a-bf93909115e6
+m	java:S106N"+Replace this use of System.out by a logger.(‡‹¿Æ8‹©é†2J$61203c52-214a-4db9-bef5-cb808efc3afa
+l	java:S106R"+Replace this use of System.out by a logger.(ÙÂ‘!8‹©é†2J$63115700-03b7-4f38-be73-230fcc8d9212
+˜
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àıÿÿÿÿ8Ç§èƒ2J$56e3f5e2-a0c6-43a5-9ece-e8e0d26f8083

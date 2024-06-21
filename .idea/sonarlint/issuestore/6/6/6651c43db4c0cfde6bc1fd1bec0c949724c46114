@@ -1,0 +1,81 @@
+
+’
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(â¼°Ñûÿÿÿÿ
+
+java:S1120="wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ì”Å©
+’
+java:S1120D"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(£©èÚşÿÿÿÿ
+
+java:S1120M"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÊÊŒŠ
+’
+java:S1120V"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(—µÿÿÿÿÿ
+
+java:S1120_"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(”’ÇÍ
+’
+java:S1120h"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¾ôÉÓÿÿÿÿÿ
+
+java:S1120q"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÚŒß
+’
+java:S1120z"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(é¸×Ëşÿÿÿÿ
+
+java:S1120ƒ"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(½ïß°
+
+java:S1120Œ"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(°Ğ‚*
+
+java:S1120•"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ü‚™ê
+
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Ú»Ñ½
+“
+java:S1120§"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)( ªÆÓûÿÿÿÿ
+
+java:S1120°"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(İÏå
+“
+java:S1120¹"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ë€ˆıÿÿÿÿ
+
+java:S1120Â"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(œÉ‘ã
+:
+java:S2384§"Return a copy of "createTime".( ªÆÓûÿÿÿÿ
+4
+java:S2384°"Store a copy of "createTime".(İÏå
+:
+java:S2384¹"Return a copy of "updateTime".(ë€ˆıÿÿÿÿ
+4
+java:S2384Â"Store a copy of "updateTime".(œÉ‘ã
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ªûœøÿÿÿÿ
+V
+java:S1106<"AMove this left curly brace to the beginning of next line of code.(†¾ĞH
+\
+java:S1106C"AMove this left curly brace to the beginning of next line of code.(¦™é‡şÿÿÿÿ
+W
+java:S1106L"AMove this left curly brace to the beginning of next line of code.(ÌÙÔİ
+\
+java:S1106U"AMove this left curly brace to the beginning of next line of code.(íìˆøÿÿÿÿ
+\
+java:S1106^"AMove this left curly brace to the beginning of next line of code.(§·Îìşÿÿÿÿ
+W
+java:S1106g"AMove this left curly brace to the beginning of next line of code.(©©Şå
+\
+java:S1106p"AMove this left curly brace to the beginning of next line of code.(‚¬Ñûÿÿÿÿ
+\
+java:S1106y"AMove this left curly brace to the beginning of next line of code.(èÿŒíùÿÿÿÿ
+X
+java:S1106‚"AMove this left curly brace to the beginning of next line of code.(³»¿®
+X
+java:S1106‹"AMove this left curly brace to the beginning of next line of code.(›ıïª
+]
+java:S1106”"AMove this left curly brace to the beginning of next line of code.(©¤Ôüÿÿÿÿ
+]
+java:S1106"AMove this left curly brace to the beginning of next line of code.(…ø…ÿÿÿÿÿ
+X
+java:S1106¦"AMove this left curly brace to the beginning of next line of code.(ğ¡ï®
+W
+java:S1106¯"AMove this left curly brace to the beginning of next line of code.(°ˆœ
+X
+java:S1106¸"AMove this left curly brace to the beginning of next line of code.(ß±Ş
+X
+java:S1106Á"AMove this left curly brace to the beginning of next line of code.(¨óÙ
+D
+java:S2208".Explicitly import the specific classes needed.(¬£şç
+U
+java:S1258":Add a constructor to the class, or provide default values.(ªûœøÿÿÿÿ
